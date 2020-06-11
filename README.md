@@ -8,6 +8,23 @@
 5. Devler Azure'da araştır [Eğitim-Workshop]
 6. Yazılım ile ilgili Yarışmaları araştır (Örneğin: GGJ)
 
+---
+
+
+### İÇİNDEKİLER
+1.[Solid Prensipleri](#Solid-Prensipleri)
+1.1.Single Responsibility Principle
+1.2.Open/Closed Principle
+1.3.Liskov ‘s Substitution Principle
+1.4.Interface Segregation Principle
+1.5.Dependency Inversion Principle
+Etkinlikler
+Microsoft Build 2020 Yenilikleri
+4.Takip Ettiğim Yazılımcılar
+Devler Azure'da Eğitimler- Workshoplar
+6.Yazılım ile ilgili Yarışmalar
+KAYNAKÇA
+
 **1.Solid Prensipleri**
 
 Solid bir yazılım geliştiricinin esnek ve gelişmeye açık object oriented programlama yaparken
