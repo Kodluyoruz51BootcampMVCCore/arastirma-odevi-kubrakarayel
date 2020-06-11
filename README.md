@@ -92,12 +92,12 @@ bağlı olmalıdır.
 
 ## 2. Etkinlikler
 
-#### ÇÖZÜMPARK
+### ÇÖZÜMPARK
 
 ![çözümpark](https://user-images.githubusercontent.com/61011022/84431434-f4e24300-ac33-11ea-99e4-6de3897be78c.jpg)
 
 
-#### BİLİŞİM ZİRVESİ
+### BİLİŞİM ZİRVESİ
 
 ![bilişimzirvesi](https://user-images.githubusercontent.com/61011022/84431919-c44ed900-ac34-11ea-958d-c1d9f846b6ed.jpg)
 
@@ -192,7 +192,7 @@ Dynamics 365 verilerini özelleştirebiliyor.
 
 ## 4.Takip Ettiğim Yazılımcılar
 
-**Engin Demiroğ**
+### Engin Demiroğ
 
 **Hakkında**
 
@@ -222,7 +222,7 @@ Danışmanlık veya eğitim verdiğim kurum sayısı son 10 yılda 300'ü geçmi
 DevFramework ismiyle geliştirdiğim altyapı projem birçok kurum ve firmada yazılım geliştirme
 altyapısı olarak kullanılmaktadır.
 
-**Selman Kahya**
+### Selman Kahya
 
 **Hakkında**
 
@@ -278,7 +278,7 @@ Etkinliğin günü ve saati: 25.06.2020 saat 17.
 
 ## 6.Yazılım ile ilgili Yarışmalar
 
-**Hackhathon**
+### Hackhathon
 
 
 ![Nest Game Startup](https://user-images.githubusercontent.com/61011022/84432686-d715dd80-ac35-11ea-9518-790d71e9aacc.png)
