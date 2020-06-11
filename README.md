@@ -31,7 +31,7 @@ Devler Azure'da Eğitimler- Workshoplar
 6.Yazılım ile ilgili Yarışmalar
 KAYNAKÇA
 
-**1.Solid Prensipleri**
+## 1.Solid Prensipleri
 
 Solid bir yazılım geliştiricinin esnek ve gelişmeye açık object oriented programlama yaparken
 uyması gereken kuralların bir araya getirildiği bir prensiptir. Dünya standartlarında yazılım
@@ -46,7 +46,7 @@ D ependency Inversion Principle
 Bu temel kuralların yanı sıra Kiss, Yangi, Dry, Reuse Release Equivalence, Common Closure
 prensipleri de bulunmaktadır.
 
-**1.1.Single Responsibility Principle**
+## 1.1.Single Responsibility Principle
 
 Tek sorumluluk anlamına gelen bu kuralın amacı projede bir değişiklik yapılmak istendiğinde
 buna bağlı olarak nelerin etkileneceği düşüncesinden kurtulmak ve özgürce isteğimiz
@@ -56,14 +56,14 @@ bir fonksiyon yazmaktansa tüm gereksinimleri parçalara ayırıp bağımsız fo
 yapmayı gerektiren bir kuraldır. Böylece zaman içerisinde geliştirme yaparken etkilenecek
 diğer aşamaları gözden kaçırmanız gibi bir risk oluşmaz.
 
-**1.2.Open/Closed Principle**
+## 1.2.Open/Closed Principle
 
 Açık kapalı prensibi projemizdeki nesnelerin geliştirmeye açık ama değişime kapalı olmaları
 anlamına gelmektedir. Oluşturduğunuz nesneler zaman içerisinde ek özellikler kazanabilir
 genişlemeye açık olurlar bu normal bir yazılım projesinde kaçınılmaz bir durumdur. Ama temel
 nesne değişime kapalı tutulmalıdır.
 
-**1.3.Liskov ‘s Substitution Principle**
+## 1.3.Liskov ‘s Substitution Principle
 
 Yerine geçme prensibi kalıtım alarak türeyen sınıfların kalıtım aldıkları nesnenin tüm özellikleri
 kullanmalı ve sonrasında kendi özelliklerini barındırmasını hedefleyen bir prensiptir eğer
@@ -71,13 +71,13 @@ nesne kalıtım aldığı objenin tüm özelliklerini kullanmaz ise ortaya gerek
 ve sonrasında kalıtım alınan objenin diğerlerinden ayrılması için if else bloklarına ihtiyaç olur
 ve bu durum son derece verimsiz bir yazılıma sebep olur.
 
-**1.4.Interface Segregation Principle**
+## 1.4.Interface Segregation Principle
 
 Arayüz ayırım prensibi, bir arayüze gerektiğinden fazla yetenek eklenmemesi gerektiğini
 söyler. Nesnelerin ihtiyaç duymadıkları fonksiyonların Interface’lerinden münkün olduğunca
 ayrıştırılmasıdır.
 
-**1.5.Dependency Inversion Principle**
+## 1.5.Dependency Inversion Principle
 
 Bağımlılığın ters çevirilmesi ilkesine göre üst seviye sınıflar, modüller, methodlar vs. alt seviyeli
 sınıflara bağımlı olmamalıdır. Alt sınıflarda yapılan değişiklikler üst sınıfları etkilememelidir.
