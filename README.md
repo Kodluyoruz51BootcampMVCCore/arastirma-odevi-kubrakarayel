@@ -65,6 +65,9 @@ bağlı olmalıdır.
 
 ÇÖZÜMPARK
 
+![çözümpark](https://user-images.githubusercontent.com/61011022/84431434-f4e24300-ac33-11ea-99e4-6de3897be78c.jpg)
+
+
 BİLİŞİM ZİRVESİ
 Etkinlik Tarihi
 18 Haziran 2020 / Perşembe / 14:0 0
