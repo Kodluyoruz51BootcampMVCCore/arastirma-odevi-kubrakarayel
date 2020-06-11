@@ -104,7 +104,7 @@ bağlı olmalıdır.
 
 ***Etkinlik Tarihi***
 
-18 Haziran 2020 / Perşembe / 14:0 0
+18 Haziran 2020 / Perşembe / 14:00
 
 ***Konuşmacılar***
 
