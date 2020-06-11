@@ -9,9 +9,11 @@
 6. Yazılım ile ilgili Yarışmaları araştır (Örneğin: GGJ)
 
 **1.Solid Prensipleri**
+
 Solid bir yazılım geliştiricinin esnek ve gelişmeye açık object oriented programlama yaparken
 uyması gereken kuralların bir araya getirildiği bir prensiptir. Dünya standartlarında yazılım
 geliştirmek için uymamız gereken bu prensipler 5 başlıkta ele alınıyor.
+
 
 S ingle Responsibility Principle
 O pen/Closed Principle
@@ -22,6 +24,7 @@ Bu temel kuralların yanı sıra Kiss, Yangi, Dry, Reuse Release Equivalence, Co
 prensipleri de bulunmaktadır.
 
 **1.1.Single Responsibility Principle**
+
 Tek sorumluluk anlamına gelen bu kuralın amacı projede bir değişiklik yapılmak istendiğinde
 buna bağlı olarak nelerin etkileneceği düşüncesinden kurtulmak ve özgürce isteğimiz
 geliştirmeyi yapabilmemize olanak sağlamaktır. Her bir method sadece kendisine verilen işi
@@ -31,12 +34,14 @@ yapmayı gerektiren bir kuraldır. Böylece zaman içerisinde geliştirme yapark
 diğer aşamaları gözden kaçırmanız gibi bir risk oluşmaz.
 
 **1.2.Open/Closed Principle**
+
 Açık kapalı prensibi projemizdeki nesnelerin geliştirmeye açık ama değişime kapalı olmaları
 anlamına gelmektedir. Oluşturduğunuz nesneler zaman içerisinde ek özellikler kazanabilir
 genişlemeye açık olurlar bu normal bir yazılım projesinde kaçınılmaz bir durumdur. Ama temel
 nesne değişime kapalı tutulmalıdır.
 
 **1.3.Liskov ‘s Substitution Principle**
+
 Yerine geçme prensibi kalıtım alarak türeyen sınıfların kalıtım aldıkları nesnenin tüm özellikleri
 kullanmalı ve sonrasında kendi özelliklerini barındırmasını hedefleyen bir prensiptir eğer
 nesne kalıtım aldığı objenin tüm özelliklerini kullanmaz ise ortaya gereksiz kod yığınları oluşur
@@ -44,11 +49,13 @@ ve sonrasında kalıtım alınan objenin diğerlerinden ayrılması için if els
 ve bu durum son derece verimsiz bir yazılıma sebep olur.
 
 **1.4.Interface Segregation Principle**
+
 Arayüz ayırım prensibi, bir arayüze gerektiğinden fazla yetenek eklenmemesi gerektiğini
 söyler. Nesnelerin ihtiyaç duymadıkları fonksiyonların Interface’lerinden münkün olduğunca
 ayrıştırılmasıdır.
 
 **1.5.Dependency Inversion Principle**
+
 Bağımlılığın ters çevirilmesi ilkesine göre üst seviye sınıflar, modüller, methodlar vs. alt seviyeli
 sınıflara bağımlı olmamalıdır. Alt sınıflarda yapılan değişiklikler üst sınıfları etkilememelidir.
 Yüksek seviyeli sınıflar, düşük seviyeli sınıflara bağlı olmamalı, her ikisi de soyut kavramlara
@@ -57,6 +64,7 @@ bağlı olmalıdır.
 **2. Etkinlikler**
 
 ÇÖZÜMPARK
+
 BİLİŞİM ZİRVESİ
 Etkinlik Tarihi
 18 Haziran 2020 / Perşembe / 14:0 0
@@ -144,9 +152,11 @@ Platform ile kullanıcılar kod kullanmadan uygulamalar geliştirebiliyor, Micro
 Dynamics 365 verilerini özelleştirebiliyor.
 
 **4.Takip Ettiğim Yazılımcılar**
+
 **Engin Demiroğ**
 
 **Hakkında**
+
 Udemy'de 10.000 öğrenciyi geçmiş eğitmenler içerisinde en yüksek eğitmen ortalamasına
 sahibim. (120.000+ öğrenci, 4.7 Puan)
 
@@ -176,6 +186,7 @@ altyapısı olarak kullanılmaktadır.
 **Selman Kahya**
 
 **Hakkında**
+
 Hem ön uç hem de arka uç sistemleri geliştirme konusunda deneyime sahip kıdemli bir yazılım
 mühendisiyim. Birkaç başlangıçta ve Yahoo'da çalıştım, burada her gün milyonlarca
 görüntüleme alan birçok kullanıcıyla yüz yüze ürün üzerinde çalışma şansı buldum! Uber'e
@@ -227,4 +238,5 @@ Etkinliğin günü ve saati: 23.06.2020 saat 17.
 Etkinliğin günü ve saati: 25.06.2020 saat 17.
 
 **6.Yazılım ile ilgili Yarışmalar**
+
 Hackhathon
