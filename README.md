@@ -12,7 +12,7 @@
 
 
 ### İÇİNDEKİLER
-1.[Solid Prensipleri](#Solid-Prensipleri)
+1. [Solid Prensipleri](#solid-prensipleri)
 
 -[1.1.Single Responsibility Principle](#1.1.Single-Responsibility-Principle)
 
