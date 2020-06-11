@@ -270,7 +270,7 @@ Etkinliğin günü ve saati: 23.06.2020 saat 17.
 
 Etkinliğin günü ve saati: 25.06.2020 saat 17.
 
-**6.Yazılım ile ilgili Yarışmalar**
+## 6.Yazılım ile ilgili Yarışmalar
 
 **Hackhathon**
 
