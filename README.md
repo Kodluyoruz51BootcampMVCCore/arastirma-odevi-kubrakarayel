@@ -12,17 +12,18 @@
 
 
 ### İÇİNDEKİLER
+
 1. [Solid Prensipleri](#1solid-prensipleri)
 
- -  1.1. [Single Responsibility Principle](#11single-responsibility-principle)
+   - 1.1. [Single Responsibility Principle](#11single-responsibility-principle)
 
- -  1.2. [Open/Closed Principle](#12openclosed-principle)
+   - 1.2. [Open/Closed Principle](#12openclosed-principle)
 
- -  1.3. [Liskov ‘s Substitution Principle](#13liskov-s-substitution-principle)
+   - 1.3. [Liskov ‘s Substitution Principle](#13liskov-s-substitution-principle)
 
- -  1.4. [Interface Segregation Principle](#14interface-segregation-principle)
+   - 1.4. [Interface Segregation Principle](#14interface-segregation-principle)
 
- -  1.5. [Dependency Inversion Principle](#15dependency-inversion-principle)
+   - 1.5. [Dependency Inversion Principle](#15dependency-inversion-principle)
 
 2. [Etkinlikler](#2-etkinlikler)
 
