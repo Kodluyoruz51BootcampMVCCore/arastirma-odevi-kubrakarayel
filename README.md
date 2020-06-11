@@ -249,4 +249,8 @@ Etkinliğin günü ve saati: 25.06.2020 saat 17.
 
 **6.Yazılım ile ilgili Yarışmalar**
 
-Hackhathon
+**Hackhathon**
+![Nest Game Startup](https://user-images.githubusercontent.com/61011022/84432686-d715dd80-ac35-11ea-9518-790d71e9aacc.png)
+
+![flutter hackathon](https://user-images.githubusercontent.com/61011022/84432745-eac14400-ac35-11ea-9b65-3e3cf3e6c2c1.png)
+
