@@ -74,12 +74,12 @@ Servet Gözel, Tarcan Serdaroglu
 
 **3. Microsoft Build 2020 Yenilikleri**
 
- Build 2020’de operasyonel veritabanı hizmetlerini ve analitiği gerçek zamanlı olarak bir
+- Build 2020’de operasyonel veritabanı hizmetlerini ve analitiği gerçek zamanlı olarak bir
 araya getiren Azure Synapse Link tanıtıldı. Maliyetleri düşüren ve zaman kazandıran
 Azure Synapse Link, veri hareketlerini yönetmeye gerek kalmadan müşterilerin değerli
 bilgiler elde etmesini sağlıyor.
 
- Geliştiricilerin Visual Studio ve Visual Studio Code’dan Teams uygulamaları oluşturmaları
+- Geliştiricilerin Visual Studio ve Visual Studio Code’dan Teams uygulamaları oluşturmaları
 ve yayınlamaları için Microsoft Teams’e, yenilikler sunuldu. Bu yeni yetenekler BT
 yöneticilerinin Teams’teki kullanıcıların iş kollarını ve ISV uygulamalarını
 değerlendirmesine ve iş dağılımı yapmasına olanak tanıyor.
