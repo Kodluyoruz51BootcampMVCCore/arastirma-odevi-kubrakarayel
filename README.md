@@ -18,17 +18,21 @@
 
 -[1.2.Open/Closed Principle](#12openclosed-principle)
 
--[1.3.Liskov ‘s Substitution Principle](#)
+-[1.3.Liskov ‘s Substitution Principle](#13liskov-s-substitution-principle)
 
--[1.4.Interface Segregation Principle](#)
+-[1.4.Interface Segregation Principle](#14interface-segregation-principle)
 
--[1.5.Dependency Inversion Principle](#)
+-[1.5.Dependency Inversion Principle](#15dependency-inversion-principle)
 
-Etkinlikler
-Microsoft Build 2020 Yenilikleri
-4.Takip Ettiğim Yazılımcılar
-Devler Azure'da Eğitimler- Workshoplar
-6.Yazılım ile ilgili Yarışmalar
+2. [Etkinlikler](#2-etkinlikler)
+
+3. [Microsoft Build 2020 Yenilikleri](#3-microsoft-build-2020-yenilikleri)
+
+[4.Takip Ettiğim Yazılımcılar](#4takip-ettiğim-yazılımcılar)
+
+5. [Devler Azure'da Eğitimler- Workshoplar](#5-devler-azureda-eğitimler--workshoplar)
+
+[6.Yazılım ile ilgili Yarışmalar](#6yazılım-ile-ilgili-yarışmalar)
 KAYNAKÇA
 
 ## 1.Solid Prensipleri
