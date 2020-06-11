@@ -55,6 +55,7 @@ Yüksek seviyeli sınıflar, düşük seviyeli sınıflara bağlı olmamalı, he
 bağlı olmalıdır.
 
 **2. Etkinlikler**
+
 ÇÖZÜMPARK
 BİLİŞİM ZİRVESİ
 Etkinlik Tarihi
@@ -64,6 +65,7 @@ Başak Berk, Sadi Abalı, Seçil Songür,
 Servet Gözel, Tarcan Serdaroglu
 
 **3. Microsoft Build 2020 Yenilikleri**
+
  Build 2020’de operasyonel veritabanı hizmetlerini ve analitiği gerçek zamanlı olarak bir
 araya getiren Azure Synapse Link tanıtıldı. Maliyetleri düşüren ve zaman kazandıran
 Azure Synapse Link, veri hareketlerini yönetmeye gerek kalmadan müşterilerin değerli
@@ -187,6 +189,7 @@ Mükemmel kalitede çok bağımsız olarak çalışabilir ve sürekli yeni becer
 doğal bir istek duyar.
 
 **5. Devler Azure'da Eğitimler- Workshoplar**
+
  Yazılım Güvenliği – Bir uygulama nasıl hacklenir?
 
 Etkinliğinin günü ve saati: 09.06.2020 saat 17.
