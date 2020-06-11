@@ -14,15 +14,15 @@
 ### İÇİNDEKİLER
 1. [Solid Prensipleri](#1solid-prensipleri)
 
- - 1.1. [Single Responsibility Principle](#11single-responsibility-principle)
+ -  1.1. [Single Responsibility Principle](#11single-responsibility-principle)
 
- - 1.2. [Open/Closed Principle](#12openclosed-principle)
+ -  1.2. [Open/Closed Principle](#12openclosed-principle)
 
- - 1.3. [Liskov ‘s Substitution Principle](#13liskov-s-substitution-principle)
+ -  1.3. [Liskov ‘s Substitution Principle](#13liskov-s-substitution-principle)
 
- - 1.4. [Interface Segregation Principle](#14interface-segregation-principle)
+ -  1.4. [Interface Segregation Principle](#14interface-segregation-principle)
 
- - 1.5. [Dependency Inversion Principle](#15dependency-inversion-principle)
+ -  1.5. [Dependency Inversion Principle](#15dependency-inversion-principle)
 
 2. [Etkinlikler](#2-etkinlikler)
 
@@ -34,7 +34,7 @@
 
 6. [Yazılım ile ilgili Yarışmalar](#6yazılım-ile-ilgili-yarışmalar)
 
-[Kaynakça]()
+[Kaynakça](#kaynakça)
 
 ## 1.Solid Prensipleri
 
@@ -287,13 +287,21 @@ Etkinliğin günü ve saati: 25.06.2020 saat 17.
 ## Kaynakça
 
 •	https://www.teknotalk.com/microsoft-build-2020-konferansinda-gelistiricilere-yenilikler-tanitildi-74579/
+
 •	https://medium.com/@techmostal/solid-yaz%C4%B1l%C4%B1m-geli%C5%9Ftirme-prensipleri-86a236f6e961
+
 •	https://etkinlik.cozumpark.com/etkinlik/gercek-hayatta-yapay-zeka/1055
+
 •	https://bilisimzirvesi.com.tr/tr/etkinlikler/etkinlik/bulut-ve-veri-merkezleri-2020
+
 •	https://digitalreport.com.tr/microsoft-build-2020-cok-sayida-yeni-ozellikle-birlikte-geldi-teknoloji-14445
+
 •	https://www.udemy.com/user/engindemiro/
+
 •	https://www.linkedin.com/in/selmankahya/
+
 •	https://azure.microsoft.com/tr-tr/community/events/
+
 •	https://hackathonturkiye.com/
 
 
