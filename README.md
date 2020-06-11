@@ -13,11 +13,17 @@
 
 ### İÇİNDEKİLER
 1.[Solid Prensipleri](#Solid-Prensipleri)
-1.1.Single Responsibility Principle
-1.2.Open/Closed Principle
-1.3.Liskov ‘s Substitution Principle
-1.4.Interface Segregation Principle
-1.5.Dependency Inversion Principle
+
+-1.1.Single Responsibility Principle
+
+-1.2.Open/Closed Principle
+
+-1.3.Liskov ‘s Substitution Principle
+
+-1.4.Interface Segregation Principle
+
+-1.5.Dependency Inversion Principle
+
 Etkinlikler
 Microsoft Build 2020 Yenilikleri
 4.Takip Ettiğim Yazılımcılar
