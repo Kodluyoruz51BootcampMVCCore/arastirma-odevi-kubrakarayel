@@ -35,7 +35,7 @@
 
 6. [Yazılım ile ilgili Yarışmalar](#6yazılım-ile-ilgili-yarışmalar)
 
-[Kaynakça](#kaynakça)
+7. [Kaynakça](#kaynakça)
 
 ## 1.Solid Prensipleri
 
