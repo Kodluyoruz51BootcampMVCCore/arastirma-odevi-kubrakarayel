@@ -63,7 +63,7 @@ bağlı olmalıdır.
 
 **2. Etkinlikler**
 
-#ÇÖZÜMPARK
+##ÇÖZÜMPARK
 
 ![çözümpark](https://user-images.githubusercontent.com/61011022/84431434-f4e24300-ac33-11ea-99e4-6de3897be78c.jpg)
 
