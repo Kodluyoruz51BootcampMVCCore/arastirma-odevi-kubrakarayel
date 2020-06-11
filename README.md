@@ -14,9 +14,9 @@
 ### İÇİNDEKİLER
 1. [Solid Prensipleri](#1solid-prensipleri)
 
--[1.1.Single Responsibility Principle](#1.1.Single-Responsibility-Principle)
+-[1.1.Single Responsibility Principle](#11single-responsibility-principle)
 
--[1.2.Open/Closed Principle](#1.2.Open/Closed-Principle)
+-[1.2.Open/Closed Principle](#12Open/Closed-Principle)
 
 -[1.3.Liskov ‘s Substitution Principle](#1.3.Liskov‘s-Substitution-Principle)
 
