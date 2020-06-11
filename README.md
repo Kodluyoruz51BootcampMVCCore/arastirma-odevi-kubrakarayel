@@ -16,13 +16,13 @@
 
 -[1.1.Single Responsibility Principle](#11single-responsibility-principle)
 
--[1.2.Open/Closed Principle](#12Open/Closed-Principle)
+-[1.2.Open/Closed Principle](#12openclosed-principle)
 
--[1.3.Liskov ‘s Substitution Principle](#1.3.Liskov‘s-Substitution-Principle)
+-[1.3.Liskov ‘s Substitution Principle](#)
 
--[1.4.Interface Segregation Principle](#1.4.Interface-Segregation-Principle)
+-[1.4.Interface Segregation Principle](#)
 
--[1.5.Dependency Inversion Principle](#1.5.Dependency-Inversion-Principle)
+-[1.5.Dependency Inversion Principle](#)
 
 Etkinlikler
 Microsoft Build 2020 Yenilikleri
@@ -84,7 +84,7 @@ sınıflara bağımlı olmamalıdır. Alt sınıflarda yapılan değişiklikler 
 Yüksek seviyeli sınıflar, düşük seviyeli sınıflara bağlı olmamalı, her ikisi de soyut kavramlara
 bağlı olmalıdır.
 
-**2. Etkinlikler**
+## 2. Etkinlikler
 
 **ÇÖZÜMPARK**
 
@@ -105,7 +105,7 @@ bağlı olmalıdır.
 Başak Berk, Sadi Abalı, Seçil Songür,
 Servet Gözel, Tarcan Serdaroglu
 
-**3. Microsoft Build 2020 Yenilikleri**
+## 3. Microsoft Build 2020 Yenilikleri
 
 - Build 2020’de operasyonel veritabanı hizmetlerini ve analitiği gerçek zamanlı olarak bir
 araya getiren Azure Synapse Link tanıtıldı. Maliyetleri düşüren ve zaman kazandıran
@@ -184,7 +184,7 @@ uygulamalar, botlar, iş akışları, gösterge panoları oluşturmak için Powe
 Platform ile kullanıcılar kod kullanmadan uygulamalar geliştirebiliyor, Microsoft 365 ve
 Dynamics 365 verilerini özelleştirebiliyor.
 
-**4.Takip Ettiğim Yazılımcılar**
+## 4.Takip Ettiğim Yazılımcılar
 
 **Engin Demiroğ**
 
@@ -232,7 +232,7 @@ Kendini starter / Bilinmeyenlerden enerji çeken içten motivasyonlu.
 Mükemmel kalitede çok bağımsız olarak çalışabilir ve sürekli yeni beceriler geliştirmek için
 doğal bir istek duyar.
 
-**5. Devler Azure'da Eğitimler- Workshoplar**
+## 5. Devler Azure'da Eğitimler- Workshoplar
 
 - Yazılım Güvenliği – Bir uygulama nasıl hacklenir?
 
