@@ -84,46 +84,46 @@ ve yayınlamaları için Microsoft Teams’e, yenilikler sunuldu. Bu yeni yetene
 yöneticilerinin Teams’teki kullanıcıların iş kollarını ve ISV uygulamalarını
 değerlendirmesine ve iş dağılımı yapmasına olanak tanıyor.
 
- Yeni güncellemeler eklenen Fluid Framework, açık kaynak platformu olarak geliştiricilere
+- Yeni güncellemeler eklenen Fluid Framework, açık kaynak platformu olarak geliştiricilere
 sunulmaya başlandı. Böylece Office.com ve Web için Outlook’taki Fluid bileşenleri de son
 kullanıcılara sağlanmış oldu.
 
- Azure Machine Learning ve OSS araçlarına getirilen yeniliklerle müşterilerin yapay zekâ
+- Azure Machine Learning ve OSS araçlarına getirilen yeniliklerle müşterilerin yapay zekâ
 modellerini daha sorumlu bir şekilde kullanmasına yardımcı olmak için yeni Responsible
 ML (Sorumlu Makine Öğrenmesi) araçları sunuldu. Bu araç, model yorumlama yeteneğini
 geliştirerek veri güvenliğini ve kullanıcı gizliliği garanti altına alacak, yapay zeka
 sistemlerinin geliştirilmesinde sorumluluk anlayışını güçlendirecek.
 
- Etkinlikte, 1 milyar Windows 10 cihazında birlikte uygulama geliştirmeye yardımcı olmak
+- Etkinlikte, 1 milyar Windows 10 cihazında birlikte uygulama geliştirmeye yardımcı olmak
 için Project Reunion girişimi de tanıtıldı. Project Reunion, Win32 ve UWP API’leri ile
 entegrasyonu kolaylaştırmak ve Windows 10 sürümleri kullanılan tüm cihazlarda çalışan
 kullanışlı uygulamalar geliştirmek üzere bir “Windows geliştirici platformu” olarak
 oluşturuldu.
 
- Power Automate çözümüne kapsamlı düşük kodlu Robotik Proses Otomasyonu (RPA)
+- Power Automate çözümüne kapsamlı düşük kodlu Robotik Proses Otomasyonu (RPA)
 teknolojisini sunmak için yatırımlarını sürdüren Microsoft, düşük kodlu ve kullanımı kolay
 RPA geliştirme ortamlarının lider sağlayıcısı Softomotive’i satın aldı. Softomotive’in
 teknolojisi, Microsoft müşterilerinin işlerini kolaylaştırmak için kullanıcı arayüzü akışlarına
 destek olan çözümler sunmaya başladı.
 
- Etkinlikte, Azure’da yer alan dünyanın en güçlü süper yapay zekâ bilgisayarları ndan birini
+- Etkinlikte, Azure’da yer alan dünyanın en güçlü süper yapay zekâ bilgisayarları ndan birini
 de duyuruldu. OpenAI ile işbirliğiyle özel olarak geliştirilen bu süper bilgisayar gücünü
 Azure bulut altyapısından alıyor. Sistem, dağıtılmış devasa yapay zekâ modelleri
 geliştirmek için özel olarak tasarlandı.
 
- Visual Studio ürün ailesiyle Microsoft, her geliştiriciye sınıfının en iyisi araçları
+- Visual Studio ürün ailesiyle Microsoft, her geliştiriciye sınıfının en iyisi araçları
 sağlanmaya devam ediyor. Build 2020’de, yeni bir geliştirici kutusu kurmak, yeni bir
 projeye katılırken veya uzaktan çalışmaya geçerken ortak bir senaryo oluşturmak
 için Visual Studio Codespaces de tanıtıldı. VS Codespaces, geliştiricilerin dakikalar içinde
 tamamen yapılandırılmış geliştirme ortamları oluşturması için bulutun gücünden
 faydalanıyor.
 
- Geliştiricilerin bulut deneyimine kesintisiz kod sağlamak için, GitHub Actions for Azure
+- Geliştiricilerin bulut deneyimine kesintisiz kod sağlamak için, GitHub Actions for Azure
 (Azure için GitHub Eylemleri) platformuna yapılan yeni entegrasyonlar da duyuruldu.
 Ekiplerin iş akışlarını kolayca oluşturmasına, test edip yayınlamasına, dağıtmasına ve
 otomatikleştirmesine yardımcı olan 30’dan fazla GitHub Eylemi geliştiricilere sunuldu.
 
- Build 2020’de ayrıca Microsoft’un sağlık sektörüne özgü ilk bulut hizmeti olan Microsoft
+- Build 2020’de ayrıca Microsoft’un sağlık sektörüne özgü ilk bulut hizmeti olan Microsoft
 Cloud for Healthcare (Sağlık için Microsoft Bulut) tanıtıldı. Hizmet, müşteriler ve iş
 ortaklarının hasta bakımını güçlendiriyor, bakım ekiplerinin bağlantılı hizmet yürütmesini
 sağlıyor; işbirliği, karar verme ve operasyonel verimliliği artırma yetenekleri sunuyor.
@@ -201,39 +201,39 @@ doğal bir istek duyar.
 
 **5. Devler Azure'da Eğitimler- Workshoplar**
 
- Yazılım Güvenliği – Bir uygulama nasıl hacklenir?
+- Yazılım Güvenliği – Bir uygulama nasıl hacklenir?
 
 Etkinliğinin günü ve saati: 09.06.2020 saat 17.
 
- Mustafa El-Aliwat - Business Development Director , Enqura
+- Mustafa El-Aliwat - Business Development Director , Enqura
 
- Emre Özer - Technology Director, Enqura
+- Emre Özer - Technology Director, Enqura
 
- Azure ile Uygulama Modernizasyonu, Mikroservis mimarileri ve
+- Azure ile Uygulama Modernizasyonu, Mikroservis mimarileri ve
 
- Açık Kaynak Kod (Open Source) ışığında en iyi pratiklere sahip yazılım mimarisi
+- Açık Kaynak Kod (Open Source) ışığında en iyi pratiklere sahip yazılım mimarisi
 
 Etkinliğin günü ve saati: 11.06.2020 saat 17.
 
- Tayyip Osmanoglu - DevOps Engineer , Albarakaturk
+- Tayyip Osmanoglu - DevOps Engineer , Albarakaturk
 
- Pamir Erdem - Azure Specialist, Microsoft Türkiye Kubernetes Networking
+- Pamir Erdem - Azure Specialist, Microsoft Türkiye Kubernetes Networking
 
 Etkinliğin günü ve saati: 16.06.2020 saat 17.
 
- Oguz Yarımtepe - Site Reliability Engineer Team Lead , GittiGidiyor
+- Oguz Yarımtepe - Site Reliability Engineer Team Lead , GittiGidiyor
 
- Pamir Erdem - Azure Specialist, Microsoft Türkiye
+- Pamir Erdem - Azure Specialist, Microsoft Türkiye
 
- Kubernetes Hybrid Monitoring
+- Kubernetes Hybrid Monitoring
 
 Etkinliğin günü ve saati: 18.06.2020 saat 17.
 
- Alper Hankendi - Director of Engineering , HepsiBurada TBD
+- Alper Hankendi - Director of Engineering , HepsiBurada TBD
 
 Etkinliğin günü ve saati: 23.06.2020 saat 17.
 
- Mustafa Yağımlı - Big Data Development Manager, HepsiBurada TBD
+- Mustafa Yağımlı - Big Data Development Manager, HepsiBurada TBD
 
 Etkinliğin günü ve saati: 25.06.2020 saat 17.
 
