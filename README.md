@@ -238,7 +238,7 @@ Kendini starter / Bilinmeyenlerden enerji çeken içten motivasyonlu.
 Mükemmel kalitede çok bağımsız olarak çalışabilir ve sürekli yeni beceriler geliştirmek için
 doğal bir istek duyar.
 
-## 5. Devler Azure'da Eğitimler- Workshoplar
+## 5. Devler Azure'da Eğitimler - Workshoplar
 
 - Yazılım Güvenliği – Bir uygulama nasıl hacklenir?
 
