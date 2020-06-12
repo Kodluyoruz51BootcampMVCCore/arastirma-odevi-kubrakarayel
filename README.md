@@ -31,7 +31,7 @@
 
 4. [Takip Ettiğim Yazılımcılar](#4-takip-ettiğim-yazılımcılar)
 
-5. [Devler Azure'da Eğitimler- Workshoplar](#5-devler-azureda-eğitimler--workshoplar)
+5. [Devler Azure'da Eğitimler- Workshoplar](#5-devler-azureda-eğitimler---workshoplar)
 
 6. [Yazılım ile ilgili Yarışmalar](#6-yazılım-ile-ilgili-yarışmalar)
 
